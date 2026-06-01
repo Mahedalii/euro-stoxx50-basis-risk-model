@@ -22,21 +22,6 @@ Main steps include:
 * Out-of-sample performance evaluation
 * Rolling OLS analysis using a 250-day rolling window to assess coefficient stability
 
-## Repository Structure
-
-```text
-euro-stoxx50-basis-risk-model/
-│
-├── README.md
-├── model.py
-├── training.py
-├── report.pdf
-├── actual_vs_fitted_basis.png
-├── correlation_heatmap.png
-├── regression_summary.xlsx
-└── data.xlsx
-```
-
 ## Files
 
 ### `model.py`
