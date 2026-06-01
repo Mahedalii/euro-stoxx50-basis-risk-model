@@ -77,7 +77,7 @@ The dataset used in this project was independently collected, cleaned, and compi
 The cleaned dataset is included in this repository as:
 
 ```text
-data.xlsx
+Data.xlsx
 ```
 
 The dataset includes variables related to:
